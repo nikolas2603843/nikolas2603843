@@ -18,6 +18,7 @@
             <p class="card-text">Lenguajes de programación que domino:</p>
             <ul>
               <li>Java</li>
+              <li>Springboot</li>
               <li>JavaScript</li>
               <li>HTML</li>
               <li>CSS</li>
