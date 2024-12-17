@@ -24,9 +24,7 @@
               <li>CSS</li>
               <li>Node.js</li>
               <li>Angular</li>
-            
               <li>AWS</li>
-          
             </ul>
           </div>
         </div>
